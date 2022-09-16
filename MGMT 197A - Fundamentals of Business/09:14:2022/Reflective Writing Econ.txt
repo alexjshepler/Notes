@@ -1,0 +1,37 @@
+Chapter 1 - Economic Systems and Economics
+    1.3 How Business and Economies Work
+        Define Economics - The study of how a society uses scarce resources to produce and distribute goods and services
+        Define Economic Systems - The combination of policies, laws, and choices made by its government to establish the systems that determine what goods and services are produced and how they are allocated
+            Two broad categories - Free market, Capitalism
+        Economic Systems - definition of each and an examples
+            Capitalism - All factors of productions are privately owned and the government doesn't regulate economic activity. united States is a capitalistic Country
+            Communism - The government owns virtually all resources and controls all markets. China is a communist country
+            Socialism - The government owns large business, like transportation, or are under strong state control. Small businesses are deemed not as important and are privately owned. United Kingdom is a socialist country
+            Mixed Economic System - A system that falls somewhere between pure capitalism and communism. The United States is a mixed but leans toward pure capitalism
+            Economics two main subareas - definition and example
+                Macroeconomics - Study of economics as a whole. Data for large groups of people, companies, or products considered as a whole
+                Microeconomics - Focuses on individual parts of an economy. households or firms
+
+    1.4 Macroeconomics: The Big Picture
+        Three main macroeconomic goals -    1) Economic growth
+                                            2) Full employment
+                                            3) Price stability
+        How is economic growth measured - Gross Domestic Product (GDP)
+        Upward and downward changes in economic activity is called - Business cycles
+        What constitutes full employment - Having jobs for all who want to and can work
+        Four types of unemployment - Frictional, structural, cyclical, seasonal
+        Significance of keeping overall prices for goods and services steady - Keeps purchasing power steady
+        Define Inflation - The situation in which the average of all prices of goods and services is rising
+        Two types of inflation - Demand-Pull, Cost-Push
+    
+    1.5 Achieving Macroeconomic Goals
+        Define Monetary Policy - Refers to a government's programs for controlling the amount of money circulating in the economy and interests rates
+        Define Fiscal Policy - Other economic tools used by the governments is its program of taxation and spending
+            How does fiscal policy stimulate hte economy - By cutting taxes or by increasing spending
+        What are the results if government spending is not managed well - Federal budget deficit
+
+    1.6 Microeconomics: Zeroing in on Businesses and Consumers
+        Define Demand - The quantity of a good or service that people are willing to buy at various prices
+        Define Supply - The quantity of a good or service that businesses will make at various prices
+        What happens when there is an increase or decrease in either supply or demand - It will cause the equilibria price to rise
+        What is the point of equilibrium and why is it important - It is when the demand matches the supply and when the company is most profitable
