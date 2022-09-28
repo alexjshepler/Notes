@@ -1,0 +1,8 @@
+$schema: https://azuremlschemas.azureedge.net/latest/workspace.schema.json
+name: ML-Notes
+location: westus2
+display_name: Notes
+description: A workspace for testing notes that I've taken learning ML
+tags:
+  purpose: testing
+  team: ws-management
