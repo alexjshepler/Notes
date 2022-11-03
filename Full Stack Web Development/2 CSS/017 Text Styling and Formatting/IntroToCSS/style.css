@@ -1,0 +1,48 @@
+html {
+    font-family: 'Times New Roman', Times, serif, serif, sans-serif;
+}
+
+body {
+    background-color: #444;
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    color: #fff;
+    line-height: 1rem;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 30px;
+    font-style: normal;
+}
+
+.formatting {
+    font-size: 25px;
+    line-height: 2em;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: yellow;
+    word-spacing: 10px;
+    text-transform: capitalize;
+}
+
+.borderImage {
+    border: 10px dashed red;
+}
+
+ul li {
+    color: white;
+    font-size: 20px;
+}
+
+ul>li {
+    color: yellow;
+}

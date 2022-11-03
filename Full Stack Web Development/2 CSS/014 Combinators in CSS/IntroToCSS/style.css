@@ -1,0 +1,33 @@
+body{
+    /* background-image: url(Patrick.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.container {
+    /* background: linear-gradient(to left, #0cf, #b3f0ff );
+    box-shadow: 3px 5px 3px black; */
+}
+
+h1 {
+    color: #fff;
+    text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+    color: rgb(0, 204, 255);
+    text-shadow: 1px 1px 3px darkblue;
+}
+
+.borderImage {
+    border: 2px solid red;
+}
+
+ul li {
+    color: red;
+    font-size: 20px;
+}
+
+ul > li {
+    color: blue;
+}
